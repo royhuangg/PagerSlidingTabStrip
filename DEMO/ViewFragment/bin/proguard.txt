@@ -1,0 +1,9 @@
+# view res/layout/activity_main.xml #generated:14
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:7
+-keep class com.astuetz.PagerSlidingTabStrip { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.example.viewfragment.MainActivity { <init>(...); }
+
